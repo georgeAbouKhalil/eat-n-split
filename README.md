@@ -4,4 +4,4 @@
 1. npm i
 2. npm start
 
-![image](https://github.com/georgeAbouKhalil/eat-n-split/assets/88317294/27e46528-fd9c-4dfb-a719-ba9c6f605a8d)
+![image](https://github.com/georgeAbouKhalil/eat-n-split/assets/88317294/9f467312-c2fa-4a35-92c8-82a905b48388)
